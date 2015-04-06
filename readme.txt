@@ -4,7 +4,6 @@ hello
 boy
 dev
 girl
-=======
 test
 Creating a new branch is quick AND simple.
 
